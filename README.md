@@ -13,12 +13,6 @@ KeyFlow is a minimalistic typing speed testing app built with React and Tailwind
 - **Responsive Design**: The user interface is designed to be responsive and adapt to different screen sizes, making it accessible on various laptops or PCs.
 
 
-## Screenshots with different themes
-
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Estifanos12/OpenType/blob/main/screenshots/screenshot-0.png?raw=true">
-
-<br>
-
 ## Acknowledgement
 
 - [MonkeyType](https://www.monkeytype.com) - for the inspiration and design ideas.
