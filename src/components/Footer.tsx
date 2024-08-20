@@ -20,32 +20,14 @@ const Footer = () => {
         <div className='flex items-center justify-center '>
           <Tooltip tooltipId='Github'>
             <Social
-              url='http://github.com/Estifanos12'
+              url='https://github.com/Sshivam26'
               tooltipContent='Github'
               tooltipId='Github'
             >
               <BsGithub className='text-2xl' />
             </Social>
           </Tooltip>
-          <Tooltip tooltipId='whatsapp'>
-            <Social
-              url='https://wa.link/e3397e'
-              tooltipContent='WhatsApp'
-              tooltipId='whatsapp'
-            >
-              <BsWhatsapp className='text-2xl' />
-            </Social>
-          </Tooltip>
-
-          <Tooltip tooltipId='telegram'>
-            <Social
-              url='http://t.me/estif1727'
-              tooltipContent='Telegram'
-              tooltipId='telegram'
-            >
-              <BsTelegram className='text-2xl ' />
-            </Social>
-          </Tooltip>
+          
         </div>
 
         <div className='flex items-center gap-2'>
