@@ -53,7 +53,7 @@ const Footer = () => {
           <Tooltip tooltipId='source-code'>
             <StyledLink
               theme={systemTheme}
-              href='http://github.com/Estifanos12/OpenType'
+              href='https://github.com/Sshivam26/KeyFlow'
               target='_blank'
               rel='noopener noreferrer'
               className='font-mono text-xl hover:underline'

@@ -5,9 +5,9 @@ const AboutPage = () => {
   return (
     <div className='m-auto flex h-[90%] w-[90%] flex-col gap-7 py-10 font-mono text-lg'>
       <div className='flex flex-col gap-3'>
-        <h1 className='text-3xl font-bold'>About OpenType</h1>
+        <h1 className='text-3xl font-bold'>About KeyFlow</h1>
         <p className=''>
-          OpenType is a minimalistic typing speed testing app built with React
+          KeyFlow is a minimalistic typing speed testing app built with React
           and TailwindCSS that highly inspired by{' '}
           <a
             href='http://www.monkeytype.com'
